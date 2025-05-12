@@ -9,7 +9,6 @@ The project follows a **three-step pipeline**:
 2. **Insight Derivation** using SQL queries
 3. **Visualization** with Power BI
 
----
 
 ## Tools & Technologies Used
 
@@ -17,7 +16,7 @@ The project follows a **three-step pipeline**:
 - **SQL** – for querying structured data and deriving specific insights
 - **Power BI** – for creating dynamic, interactive dashboards
 
----
+
 ![Screenshot 2025-05-12 172401](https://github.com/user-attachments/assets/e81814b8-94ce-46ca-a280-3498c79570d8)
 
 
