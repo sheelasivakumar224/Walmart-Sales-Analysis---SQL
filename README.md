@@ -1,6 +1,6 @@
 # Walmart-Sales-Analysis---Python, SQL, PowerBI
 
-## 📝 Project Overview
+## Project Overview
 
 This project is a comprehensive **Sales Analytics Dashboard** for Walmart, built using **Power BI**. It provides actionable insights into sales performance across various product categories, time segments, cities, and payment methods.
 
@@ -11,7 +11,7 @@ The project follows a **three-step pipeline**:
 
 ---
 
-## 🔧 Tools & Technologies Used
+## Tools & Technologies Used
 
 - **Python (Pandas)** – for data cleaning, transformation, and merging multiple sources
 - **SQL** – for querying structured data and deriving specific insights
